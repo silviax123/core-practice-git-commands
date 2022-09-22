@@ -2,7 +2,7 @@ import pytest
 
 
 def always_returns_true():
-    return True
+    return "hello"
 
 
 def test_always_returns_true():
